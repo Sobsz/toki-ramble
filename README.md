@@ -1,6 +1,8 @@
 # toki Ramble
 in which i ramble in toki pona to feed a possible future neural network
 
+**<!--sizestart-->69420<!--sizeend-->** kb across **<!--numstart-->69420<!--numend-->** files
+
 i tend to generate 3 random non-gender content words as inspiration, which i then make a proper grammatical topic out of because i wanna be able to prompt the future nn with just a topic
 
 maybe sentence-pair translations too eventually idk
