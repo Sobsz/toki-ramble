@@ -3,6 +3,8 @@ in which i ramble in toki pona to feed a possible future neural network
 
 **<!--sizestart-->13.4<!--sizeend-->k** characters across **<!--countstart-->6<!--countend-->** files
 
+these are written in a quite freeform ma·ponian dialect with many non-pu words, i tried to detail it [here](https://github.com/Sobsz/toki-pona/blob/master/kita.md)
+
 i tend to generate 3 random non-gender content words as inspiration, which i then make a proper grammatical topic out of because i wanna be able to prompt the future nn with just a topic
 
 maybe sentence-pair translations too eventually idk
