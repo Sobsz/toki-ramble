@@ -1,7 +1,7 @@
 # toki Ramble
 in which i ramble in toki pona to feed a possible future neural network
 
-**<!--sizestart-->19.4<!--sizeend-->k** characters across **<!--countstart-->8<!--countend-->** files
+**<!--sizestart-->19.5<!--sizeend-->k** characters across **<!--countstart-->8<!--countend-->** files
 
 these are written in a quite freeform ma·ponian dialect with many non-pu words, i tried to detail it [here](https://github.com/Sobsz/toki-pona/blob/master/kita.md)
 
